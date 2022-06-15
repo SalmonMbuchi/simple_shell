@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
-  * signal_handler - Handles the signals
+  * signal_handler - Handles the signal
   * @sig_id: The identifier of the signal to handle
   *
   * Return: Nothing to returns
