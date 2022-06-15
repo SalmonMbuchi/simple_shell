@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _open_help - Opens the Holberton Shell help
+ * _open_help - Opens the Shell help
  *
  * Return: Nothing to returns
  */
